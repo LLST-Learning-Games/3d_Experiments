@@ -1,0 +1,16 @@
+﻿title: Start
+---
+Narrator: I hope you understand the gravity of the situation.
+-> Me: Nope, not at all.
+	Narrator: Fortunate for you this is an introductory course.
+-> Me: What gravity in particular?
+	Narrator: Some things are heavy, others are light. It all depends on their mass.
+-> Me: I believe it's 9.81 m/s sqaured, no?
+	Narrator: I see we have an advanced learner on our hands.
+<<jump MoreImportantThings>>
+===
+
+title: MoreImportantThings
+---
+Narrator: Without a word of exaggeration, this may be the most important conversation you have ever had.
+===
