@@ -35,7 +35,6 @@ public class PlayerInput : MonoBehaviour
     {
         HandleMovement();
         HandleJump();
-        Debug.Log(_rb.velocity.sqrMagnitude);
         LerpToAnimationValue(_rb.velocity.sqrMagnitude / _maxSqrVelocityForAnimation);
     }
 
